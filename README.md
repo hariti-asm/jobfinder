@@ -62,8 +62,11 @@
 ![screencapture-127-0-0-1-8000-dashboard-employers-2023-09-01-20_36_17](public/assets/candidates.png)
 
 ![screencapture-127-0-0-1-8000-dashboard-category-2023-09-01-20_36_35](public/assets/adminc.png)
+
 ![screencapture-127-0-0-1-8000-dashboard-category-2023-09-01-20_36_35](public/assets/verify.png)
+
 ![screencapture-127-0-0-1-8000-dashboard-category-2023-09-01-20_36_35](public/assets/confirm.png)
+
 ![screencapture-127-0-0-1-8000-dashboard-category-2023-09-01-20_36_35](public/assets/rejected.png)
 
 
