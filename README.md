@@ -52,7 +52,7 @@
 ![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/edit_seeker_profile.png)
 
 
-![screencapture-127-0-0-1-8000-job-apply-using a video](public/assets/automatic.png)
+![screencapture-127-0-0-1-8000-job-apply-using a video](public/assets/auto.png)
 
 
 ![screencapture-127-0-0-1-80custom-blog-from-psd-2023-09-01-20_33_32](public/assets/already.png)
