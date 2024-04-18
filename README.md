@@ -36,8 +36,10 @@
 
 ![screencapture-127-0-0-1-8000-jobs-alljobs-2023-09-01-20_34_45](public/assets/category.png)
 ![screencapture-127-0-0-1-8000-jobs-share job-2023-09-01-20_33_11](public/assets/share.png)
-
 ![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/apply.png)
+
+![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/seeker register.png)
+![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/edit_seeker_profile.png)
 
 ![screencapture-127-0-0-1-8000-job-apply-using a video](public/assets/video.png)
 
