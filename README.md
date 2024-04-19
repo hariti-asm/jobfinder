@@ -74,7 +74,7 @@
 ![screencapture-127-0-0-1-8000-jobs-create-2023-09-01-20_34_35](public/assets/add_job.png)
 
 
-![screencapture-127-0-0-1-8000-jobs-applications-2023-09-01-20_34_56](public/assets/myjobs.png)
+![screencapture-127-0-0-1-8000-jobs-applications-2023-09-01-20_34_56](public/assets/my_jobs.png)
 
 
 ![screencapture-127-0-0-1-8000-dashboard-settings-2023-09-01-20_36_43](public/assets/applicants.png)
