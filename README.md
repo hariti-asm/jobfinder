@@ -80,7 +80,7 @@
 ![screencapture-127-0-0-1-8000-dashboard-settings-2023-09-01-20_36_43](applicants_.png)
 
 
-![screencapture-127-0-0-1-8000-dashboard-settings-2023-09-01-20_36_43](public/assets/transcript.png)
+![screencapture-127-0-0-1-8000-dashboard-settings-2023-09-01-20_36_43](transcript_.png)
 
 
 ![screencapture-127-0-0-1-8000-dashboard-posts-2023-09-01-20_36_27](public/assets/posts.png)
