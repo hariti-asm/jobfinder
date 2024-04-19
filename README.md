@@ -50,6 +50,10 @@
 
 ![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/employer_register.png)
 
+
+![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/employer_profile.png)
+
+
 ![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/login.png)
 
 
