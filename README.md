@@ -51,7 +51,7 @@
 ![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/employer_register.png)
 
 
-![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/employer_profile.png)
+![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/company_profile.png)
 
 
 ![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/login.png)
@@ -90,7 +90,7 @@
 ![screencapture-127-0-0-1-8000-dashboard-posts-2023-09-01-20_36_27](public/assets/posts.png)
 
 
-![screencapture-127-0-0-1-8000-dashboard-jobs-2023-09-01-20_35_55](public/assets//adminj.png)
+![screencapture-127-0-0-1-8000-dashboard-jobs-2023-09-01-20_35_55](public/assets/adminj.png)
 
 
 ![screencapture-127-0-0-1-8000-dashboard-employers-2023-09-01-20_36_17](public/assets/candidates.png)
