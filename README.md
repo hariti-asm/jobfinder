@@ -49,6 +49,12 @@
 ![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/seeker_register.png)
 
 
+![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/login.png)
+
+
+![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/forgot_password.png)
+
+
 ![screencapture-127-0-0-1-8000-jobs-applyjob-2023-09-01-20_33_11](public/assets/edit_seeker_profile.png)
 
 
